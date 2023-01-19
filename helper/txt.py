@@ -65,7 +65,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
+<b><u>Special Thanks & Developers</b></u> \n
 » 𝗢𝗪𝗡𝗘𝗥 : <a href=https://t.me/MaHi_458>𝗠𝗔𝗛𝗘𝗦𝗛.𝗦</a>
 » 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 • ❣️ <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
