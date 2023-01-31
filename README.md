@@ -22,7 +22,7 @@
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://github.com/Maheshbot99/Free-Rename)
 
 ## Deploy To Railway
 
@@ -30,7 +30,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://github.com/Maheshbot99/Free-Rename"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
