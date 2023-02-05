@@ -35,14 +35,14 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/MaHi_458>𝗠𝗔𝗛𝗘𝗦𝗛.𝗦</a> 
-├👨‍💻 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
+├🤖 MY NAME : {}
+├👑 DEVELOPER : <a href=https://t.me/MaHi_458>𝗠𝗔𝗛𝗘𝗦𝗛.𝗦</a> 
+├👨‍💻 UPDATES : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+├📕 LIBRARY : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+├✏️ LANGUAGE : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+├💾 DATA BASE : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+├🌀 MY SERVER : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+├📊 BUILD STATS : V4 [ MAJOR ]              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
@@ -60,7 +60,7 @@ Example:- /set_caption 📕 File Name: {filename}
 ⏰ Duration: {duration} \n
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️  𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MaHi_458>𝗠𝗔𝗛𝗘𝗦𝗛.𝗦</a>
+ℹ️  𝗖𝗼𝗻𝘁𝗮𝗰𝘁  :- <a href=https://t.me/MaHi_458>𝗠𝗔𝗛𝗘𝗦𝗛.𝗦</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
